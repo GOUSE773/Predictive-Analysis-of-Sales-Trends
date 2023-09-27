@@ -2,7 +2,7 @@
 
 Predictive Analysis of Sales Trends is a data-driven approach that leverages historical sales data and statistical modeling techniques to make informed predictions about future sales performance.
 Predictive Analysis of Sales Trends is a data-driven approach used by businesses and organizations to gain deeper insights into their sales data and make informed predictions about future sales performance. This in-depth analysis involves a combination of statistical techniques, data mining, and machine learning algorithms to extract valuable information from historical sales data and use it to forecast future trends and outcomes.
-The Analysis process involves as following;
+The Analysis process involves as following.
 
 **1.Data Collection and Gathering.**
 
